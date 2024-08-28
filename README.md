@@ -13,9 +13,10 @@ Aquí tienes una breve introducción a los conceptos básicos de Python.
 ## 1. Escribir tu Primer Programa
 Para escribir tu primer programa en Python, abre un editor de texto o un entorno de desarrollo integrado (IDE) como PyCharm o VSCode. Luego, crea un archivo con la extensión .py, por ejemplo, hola_mundo.py, y escribe el siguiente código:
 
-print("¡Hola, mundo!")
+- print("¡Hola, mundo!")
+
 Para ejecutar el programa, abre una terminal o línea de comandos, navega al directorio donde guardaste el archivo y ejecuta:
-python hola_mundo.py
+- python hola_mundo.py
 
 ## 2. Variables
 Las variables en Python se utilizan para almacenar datos. No necesitas declarar el tipo de variable; Python lo hace automáticamente. Por ejemplo:
@@ -26,20 +27,20 @@ edad = 25
 ## 3. Tipos de Datos
 Python maneja varios tipos de datos básicos:
 
-Números Enteros (int): 10, -5
-Números Decimales (float): 3.14, -0.001
-Cadenas de Texto (str): "Hola", "Python"
-Booleanos (bool): True, False
+- Números Enteros (int): 10, -5
+- Números Decimales (float): 3.14, -0.001
+- Cadenas de Texto (str): "Hola", "Python"
+ Booleanos (bool): True, False
 
 ## 4. Operaciones Básicas
 Puedes realizar operaciones matemáticas básicas con Python:
 
 a = 10
 b = 5
-suma = a + b  # Resultado: 15
-resta = a - b  # Resultado: 5
-producto = a * b  # Resultado: 50
-division = a / b  # Resultado: 2.0
+- suma = a + b  # Resultado: 15
+- resta = a - b  # Resultado: 5
+- producto = a * b  # Resultado: 50
+- division = a / b  # Resultado: 2.0
 
 ## 5. Estructuras de Control
 Python utiliza estructuras de control para gestionar el flujo del programa:
@@ -70,7 +71,7 @@ Recursos Adicionales
 Para aprender más sobre Python, te recomendamos los siguientes recursos:
 
 ## Documentación Oficial de Python
-##Tutoriales de Python en W3Schools
+## Tutoriales de Python en W3Schools
 ## Codecademy: Curso de Python
 
-##¡Esperamos que esta guía te ayude a dar tus primeros pasos en Python! Si tienes alguna pregunta o necesitas ayuda adicional, no dudes en buscar en la documentación o preguntar a la comunidad.
+## ¡Espero que esta guía te ayude a dar tus primeros pasos en Python! Si tienes alguna pregunta o necesitas ayuda adicional, no dudes en buscar en la documentación o preguntar a la comunidad.
