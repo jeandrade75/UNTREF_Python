@@ -66,12 +66,15 @@ Las funciones en Python se definen utilizando la palabra clave def. Aquí tienes
 def saludar(nombre):
     return f"Hola, {nombre}!"
 
-print(saludar("Ana"))  # Imprime: Hola, Ana!
-Recursos Adicionales
+print(saludar("Ana"))  
+- Imprime: Hola, Ana!
+
+## Recursos Adicionales
+
 Para aprender más sobre Python, te recomendamos los siguientes recursos:
 
-## Documentación Oficial de Python
-## Tutoriales de Python en W3Schools
-## Codecademy: Curso de Python
+- Documentación Oficial de Python
+- Tutoriales de Python en W3Schools
+- Codecademy: Curso de Python
 
 ## ¡Espero que esta guía te ayude a dar tus primeros pasos en Python! Si tienes alguna pregunta o necesitas ayuda adicional, no dudes en buscar en la documentación o preguntar a la comunidad.
